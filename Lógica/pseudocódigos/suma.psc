@@ -2,7 +2,7 @@ Proceso suma
 	
 	Definir a Como Entero;
 	Definir b Como Entero;
-	Definir c Como Entero;
+	Definir sum Como Entero;
 	
 	Imprimir "Escribe el valor de a: ";
 	Leer a;
@@ -10,8 +10,7 @@ Proceso suma
 	Imprimir "Escribe el valor de b: ";
 	Leer b;
 	
-	c <- a+b;
-	
-	Imprimir "La suma de los valores de a y b es: ",c;
+	sum <- a+b;
+	Imprimir "La suma es: ",sum;
 	
 FinProceso

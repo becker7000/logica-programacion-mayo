@@ -1,0 +1,58 @@
+
+	Dos comandos:
+
+	javac (java compiler)
+	Compila un archivo .java
+	Ejemplo: `javac Hola.java`
+	Nota: se genera un archivo .class
+
+	java (ejecuta un archivo .class)
+	Ejecuta una clase Java
+	Ejemplo: `java Hola`
+
+
+	Variables: (estilo snake case)
+
+	monto
+	gradosF
+	monto_sin_descuento
+	_edad
+	valor3
+	edad_maxima
+
+	Constantes:
+
+	PI
+	DESC1	
+	TARF3
+    E
+	
+	Métodos (funciones): (estilo lower camell case)
+	
+	transformarGrados()
+	calcularArea()
+	showInputDialog()
+	println()
+
+	Clases: (estilo pascal case o upper camell case)
+
+	Hola.java
+	Producto.java
+	Juego.java
+	Persona.java
+	Scanner
+	String
+	StringBuilder
+	MiniLogin
+    
+
+	El verbo "llegar"
+	Nombre: Pedro
+
+	Pedro tiene que llegar a las 4 PM.
+
+	Atajo: syso + ctrl + espacio 
+
+
+
+
