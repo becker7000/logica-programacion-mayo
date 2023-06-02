@@ -1,0 +1,61 @@
+Describir que atributos y que se hacer con ellos:
+
+1.- Un vuelo
+2.- Una pedido (Amazon)
+3.- Un película (Netflix)
+
+
+Roles de un cine:
+Cliente
+Vendedores
+Cajeros
+
+Roles en una universidad:
+Docentes
+Alumnos
+Bibliotecario
+Limpieza
+Prefectos
+Cafeteria
+
+
+Clase Planeta:
+
+// Atributos:
+nombre: String
+posicion: int
+color: String
+
+// Métodos:
+Planeta(nombre: String, posicion: int, color: String)
+mostrarPlaneta(): void
+
+Hacer la clase Automovil:
+1.- Bloc de notas.
+2.- Diagrama UML.
+3.- Clase Java.
+4.- Crear 4 objetos de la clase Automovil (En otro archvivo)
+5.- Aplicar el método mostrarAuto()
+
+Ideas para otras clases:
+1) Persona
+2) Producto
+3) Libro
+4) Tarea
+5) Pelicula
+6) Venta (Nivel difícil)
+7) Jugador (Nivel difícil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
