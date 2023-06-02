@@ -24,7 +24,14 @@ public class Agenda {
                 System.out.print("\n\t | 5. Salir                     |");
                 System.out.print("\n\t +------------------------------+");
                 System.out.print("\n\t Opción: ");
-                opcion = Integer.parseInt(entrada.nextLine());
+
+                try{
+                    opcion = Integer.parseInt(entrada.nextLine());
+                }catch (NumberFormatException exception){
+                    System.out.print("\n\t El valor deber ser numérico.");
+                    opcion=0;
+                }
+
             }while(opcion<1 || opcion>5);
 
             // Variables auxiliares:
